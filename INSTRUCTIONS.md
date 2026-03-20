@@ -12,7 +12,7 @@ resume_parser/
 ├── parser.py         # Main pipeline — start here
 ├── extractor.py      # PDF / DOCX text extraction
 ├── cleaner.py        # Text cleaning & preprocessing
-├── llm_parser.py     # OpenAI API integration
+├── llm_parser.py     # Groq API integration
 ├── utils.py          # Shared helper functions
 ├── config.py         # Settings & environment variables
 ├── __init__.py       # Package init
