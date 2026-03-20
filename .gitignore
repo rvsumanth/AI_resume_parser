@@ -1,0 +1,13 @@
+# Environment files
+
+env/
+.env
+.env.example
+
+
+
+example_resumes/
+
+
+
+**pycache**/

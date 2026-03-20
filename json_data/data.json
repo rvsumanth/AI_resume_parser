@@ -1,0 +1,95 @@
+{
+    "full_name": "VENKATA SUMANTH RAYASAM",
+    "role": "Analytical Software Developer",
+    "skills": [
+        "Ai",
+        "Css",
+        "Dbms",
+        "Git",
+        "Html",
+        "Machine Learning",
+        "Matplotlib",
+        "Mysql",
+        "Numpy",
+        "Object Oriented Programming",
+        "Pandas",
+        "Python",
+        "Scikit-Learn",
+        "Sdlc",
+        "Seaborn",
+        "Sql",
+        "Tensorflow",
+        "Unit Testing",
+        "Visual Studio Code"
+    ],
+    "experience_level": "Fresher",
+    "education": [
+        {
+            "degree": "Bachelor of Technology",
+            "field": "Artificial Intelligence & Machine Learning",
+            "institution": "PACE Institute of Technology and Sciences",
+            "year": "2023-2026"
+        },
+        {
+            "degree": "Diploma",
+            "field": "Mechanical Engineering",
+            "institution": "PACE Institute of Technology and Sciences",
+            "year": "2020-2023"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Non-Invasive Detection of Coronary Artery Disease Using PPG",
+            "description": "Developed an end-to-end ML pipeline to detect Coronary Artery Disease using PPG signals, engineering a signal preprocessing and feature extraction workflow for 5,000+ physiological records that achieved a 91 ROC-AUC and 88 accuracy.",
+            "technologies": [
+                "Machine Learning",
+                "Matplotlib",
+                "Numpy",
+                "Pandas",
+                "Python",
+                "Scikit-Learn",
+                "Scipy",
+                "Seaborn",
+                "Signal Processing"
+            ]
+        },
+        {
+            "name": "Hand Written Digit Recognition System",
+            "description": "Engineered a CNN-based classifier utilizing TensorFlow/Keras on 60,000+ MNIST samples, achieving 98 test accuracy through optimized layer architecture and hyperparameter tuning.",
+            "technologies": [
+                "Keras",
+                "Matplotlib",
+                "Mnist Data Set",
+                "Numpy",
+                "Pandas",
+                "Python",
+                "Tensorflow",
+                "Tkinter"
+            ]
+        }
+    ],
+    "keywords": [
+        "ai",
+        "analytical software developer",
+        "artificial intelligence",
+        "certifications",
+        "cloud",
+        "data engineering",
+        "generative ai",
+        "google cloud",
+        "machine learning",
+        "mechanical engineering",
+        "ml",
+        "ncc",
+        "python programming",
+        "software development",
+        "software development life cycle",
+        "suo"
+    ],
+    "_meta": {
+        "source_file": "Sumanth-IBM-Resume.pdf",
+        "raw_text_length": 3146,
+        "clean_text_length": 3097,
+        "fields_found": 7
+    }
+}

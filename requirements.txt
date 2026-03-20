@@ -1,0 +1,25 @@
+# ─────────────────────────────────────────────────────────────
+# Resume Parser — Python Dependencies
+# Install with: pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────
+
+# ── PDF Extraction ────────────────────────────────────────────
+pdfplumber>=0.10.0          # Primary PDF text extractor
+PyPDF2>=3.0.1               # Fallback PDF extractor
+
+# ── DOCX Extraction ───────────────────────────────────────────
+docx2txt>=0.8               # DOCX text extractor
+
+# ── Groq API ──────────────────────────────────────────────────
+groq>=0.9.0                 # Official Groq Python client
+
+# ── Environment Variables ─────────────────────────────────────
+python-dotenv>=1.0.0        # Load .env files into os.environ
+
+# ── Standard Library (no install needed, listed for reference) ─
+# json      — JSON parsing
+# re        — Regular expressions
+# logging   — Logging
+# os        — Environment variable access
+# pathlib   — File path handling
+# unicodedata — Unicode normalization
